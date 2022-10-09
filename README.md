@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# React Stop Watch
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img width="698" alt="Screen Shot 2022-10-09 at 18 28 55" src="https://user-images.githubusercontent.com/31314944/194782396-69bad8ca-c2ab-4e66-9ad8-f97c1d919cfd.png">
+
 
 ## Available Scripts
 
@@ -44,3 +45,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
